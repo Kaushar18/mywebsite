@@ -6,7 +6,7 @@ function Home() {
         <div className="container">
             <div className="grid-container">
                 <div className="image">
-                <img src={photo} />
+                <img src={photo} alt="kaushar"/>
                 </div>
                  
                  <div className="content">

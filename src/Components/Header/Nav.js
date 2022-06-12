@@ -32,10 +32,10 @@ function Nav() {
             </Link>
             <div className="social">
                 <a href="/">
-                    <img src={icotwitter} />
+                    <img src={icotwitter} alt={icotwitter} />
                 </a>
                 <a href="/">
-                    <img src={icofb} />
+                    <img src={icofb} alt={icofb}/>
                 </a>
                 
             </div>
