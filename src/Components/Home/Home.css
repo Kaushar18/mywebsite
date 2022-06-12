@@ -1,0 +1,22 @@
+.grid-container{
+    display:grid;
+    grid-template-columns: 0.7fr 1fr;
+    grid-gap: 10px;
+    padding:3%
+}
+.image{
+    display:block;
+    float:inline-start;
+}
+.content{
+    display:block;
+    clear:right;
+}
+.grid-container h1{
+    font-size: 5em;
+    align-self: center;
+}
+.grid-container p{
+    font-size: 1.5em;
+    line-height: 2em;
+}

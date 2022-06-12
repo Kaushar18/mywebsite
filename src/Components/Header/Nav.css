@@ -1,0 +1,25 @@
+.nav{
+    overflow: hidden;
+    padding:5px;
+    font-size: 140%;
+    align-items: center;
+}
+.nav a{
+    color:white;
+    float:left;
+    display: block;
+    text-align: center;
+    padding: 12px 14px;
+}
+.nav a:hover {
+    background-color:white;
+    color:black;
+    font-size: 110%;
+  }
+  .nav a:active { 
+    color:green;
+  }
+  .social a{
+    float:right;
+
+  }
